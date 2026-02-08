@@ -1,16 +1,14 @@
-## Hi there 👋
+# Makaio Ohara
 
-<!--
-**makaioohara/makaioohara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`DevOps and Cloud`**
 
-Here are some ideas to get you started:
+Open to Creative and Collaborative Ventures!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+### 🧰 Languages and Tools
+
+![Java](https://img.shields.io/badge/bash-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![GIT](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![LINUX](https://img.shields.io/badge/linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PYTHON](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
