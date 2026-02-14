@@ -1,8 +1,10 @@
 # Makaio Ohara
 
-**`DevOps and Cloud`**
+**`DevOps and Cloud Engineer`**
 
-Open to Creative and Collaborative Ventures!
+- 🍪 Open to Creative and Collaborative Ventures!
+- 💬 Ask me about **DevOps & Cloud**!
+- 📫 Reach out to me **makaioohara@gmail.com**
 
 #
 
