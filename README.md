@@ -10,7 +10,7 @@
 
 ### 🧰 Languages and Tools
 
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/aws-color.png" alt="AWS" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/960px-Bash_Logo_Colored.svg.png" alt="Bash" width="40" height="40"/>
   <img src="https://icons-for-free.com/iff/png/512/docker+moby-1331550887427248522.png" alt="Docker" width="40" height="40"/>
